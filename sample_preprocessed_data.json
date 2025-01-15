@@ -1,0 +1,3278 @@
+recipes = [
+    {
+        "recipeTitle": "Baked Barbecue Chicken",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 374.84
+    },
+    {
+        "recipeTitle": "Homemade Manti",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 514.62610125
+    },
+    {
+        "recipeTitle": "cooking recipe ",
+        "recipeMeal": "Breakfast",
+        "calories": 13.44
+    },
+    {
+        "recipeTitle": "Vegan Spinach Artichoke Dip",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 220.71
+    },
+    {
+        "recipeTitle": "Grapefruit Flavoured Arugula Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 420.27
+    },
+    {
+        "recipeTitle": "Oven-Roasted Salmon Teriyaki Poke bowl ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1267.0294444444444
+    },
+    {
+        "recipeTitle": "Arugula Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 130.21
+    },
+    {
+        "recipeTitle": "Home-made Granola",
+        "recipeMeal": "Breakfast",
+        "calories": 491.9750000000001
+    },
+    {
+        "recipeTitle": "Garlic Roasted Peas",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 248.7
+    },
+    {
+        "recipeTitle": "Curried Lentil Soup",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 297.8
+    },
+    {
+        "recipeTitle": "Vegetarian Bean Burrito",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 298.87
+    },
+    {
+        "recipeTitle": "Beef with Cumin",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 330.24
+    },
+    {
+        "recipeTitle": "Delightful and Creamy Mushroom Pasta ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 564.05
+    },
+    {
+        "recipeTitle": "chocolate coconut balls ",
+        "recipeMeal": "Breakfast",
+        "calories": 695.6567999999999
+    },
+    {
+        "recipeTitle": "Carrot Cake Oatmeal",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 175.83
+    },
+    {
+        "recipeTitle": "Penne with Black Beans",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 329.52
+    },
+    {
+        "recipeTitle": "Vegan Tuna",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 136.78
+    },
+    {
+        "recipeTitle": "Stewed Tomato Black Beans",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 322.86
+    },
+    {
+        "recipeTitle": "Big Firecracker Burgers",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 521.65
+    },
+    {
+        "recipeTitle": "Home Made Ice Cream Popsicle",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 107.15677499999998
+    },
+    {
+        "recipeTitle": "Black Bean and Salsa Soup",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 166.7
+    },
+    {
+        "recipeTitle": "Bevs Sauteed Yellow Squash",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 159.75
+    },
+    {
+        "recipeTitle": "Classic Glazed Carrots",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 112.15
+    },
+    {
+        "recipeTitle": "Gluten Free Caesar Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 196.13
+    },
+    {
+        "recipeTitle": "Creamy Cashew Kale and Chickpeas",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 426.21
+    },
+    {
+        "recipeTitle": "Caramelized Banana with Rum Sauce",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 474.72
+    },
+    {
+        "recipeTitle": "Carrot Cake Smoothie Bowl",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 494.26
+    },
+    {
+        "recipeTitle": "Garlic Cheese Bread",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 941.41
+    },
+    {
+        "recipeTitle": "Beef Tacos",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 218.87
+    },
+    {
+        "recipeTitle": "Cottage Cheese and Avocado",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 485.48
+    },
+    {
+        "recipeTitle": "High Protein Banana Oatcake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 473.13
+    },
+    {
+        "recipeTitle": "Avocado Brownies with Avocado Frosting",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 438.69
+    },
+    {
+        "recipeTitle": "Chicken and Avocado Burrito",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 503.7
+    },
+    {
+        "recipeTitle": "White Nachos",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 539.25
+    },
+    {
+        "recipeTitle": "Cottage Cheese Pancakes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 190.19
+    },
+    {
+        "recipeTitle": "Flourless spinach bread ",
+        "recipeMeal": "Breakfast",
+        "calories": 113.1
+    },
+    {
+        "recipeTitle": "Feta Cucumber Boats",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 241.36
+    },
+    {
+        "recipeTitle": "Zucchini Melon Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 439.06
+    },
+    {
+        "recipeTitle": "Strawberry Cottage Cheese Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 256.0
+    },
+    {
+        "recipeTitle": "Tuna Jacket Potato",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 341.87
+    },
+    {
+        "recipeTitle": "Apple, Cottage Cheese, and Cinnamon Snack",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 254.63
+    },
+    {
+        "recipeTitle": "Ricotta and Grapes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 136.97
+    },
+    {
+        "recipeTitle": "Pimento Cheese Toasts",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 84.29
+    },
+    {
+        "recipeTitle": "Quick and Easy Grilled Cheese",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 468.8
+    },
+    {
+        "recipeTitle": "Cheese Stuffed Prunes with Almonds",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 298.44
+    },
+    {
+        "recipeTitle": "Cheese Ball and Celery",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 99.3
+    },
+    {
+        "recipeTitle": "Chicken Quesadilla",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 289.75
+    },
+    {
+        "recipeTitle": "chicken wrap",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 9.29024
+    },
+    {
+        "recipeTitle": "Chicken Jambalaya",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 529.76
+    },
+    {
+        "recipeTitle": "Chocolate Avocado Toast",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 169.51
+    },
+    {
+        "recipeTitle": "Chocolate Dipped Nut Butter Banana Bites",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 125.62
+    },
+    {
+        "recipeTitle": "Chopped Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 119.15
+    },
+    {
+        "recipeTitle": "Coconut Crisps",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 31.31
+    },
+    {
+        "recipeTitle": "Chicken Enchilada Casserole",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 466.34
+    },
+    {
+        "recipeTitle": "Cornmeal Porridge with coconut milk",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 382.85
+    },
+    {
+        "recipeTitle": "Crispy Chicken Thighs with Bacon and Wilted Escarole",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 649.82
+    },
+    {
+        "recipeTitle": "Creamy Shrimp and Poblanos",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 573.46
+    },
+    {
+        "recipeTitle": "Creme Fraiche and Chive Scrambled Eggs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 355.97
+    },
+    {
+        "recipeTitle": "Dal Nirvana",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 307.8
+    },
+    {
+        "recipeTitle": "Chocolate Peanut Butter Protein Shake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 518.91
+    },
+    {
+        "recipeTitle": "Oyakodon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 360.0
+    },
+    {
+        "recipeTitle": "Sauteed Dandelion Greens",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 147.18
+    },
+    {
+        "recipeTitle": "Date Wraps",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 353.49
+    },
+    {
+        "recipeTitle": "5 Minute Keto Pizza",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 443.3
+    },
+    {
+        "recipeTitle": "Flourless Chocolate Cake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 398.01
+    },
+    {
+        "recipeTitle": "Spaghetti Bolognese ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 402.9860625
+    },
+    {
+        "recipeTitle": "Fried Egg Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 504.75
+    },
+    {
+        "recipeTitle": "Gluten Free Banana Egg Pancake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 223.87
+    },
+    {
+        "recipeTitle": "Watermelon Icecream ",
+        "recipeMeal": "Breakfast",
+        "calories": 127.59
+    },
+    {
+        "recipeTitle": "Kale, Sweet Potato, and Onion Frittata",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 302.84
+    },
+    {
+        "recipeTitle": "Spinach Onion Scramble",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 134.11
+    },
+    {
+        "recipeTitle": "Chopped Radish and Avocado Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 272.33
+    },
+    {
+        "recipeTitle": "Eggs with Onion and Green Pepper",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 472.1
+    },
+    {
+        "recipeTitle": "Arabic Fatoush Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 90.02986649999998
+    },
+    {
+        "recipeTitle": "Ceviche with Avocado and Grilled Corn",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 401.13
+    },
+    {
+        "recipeTitle": "Chicken Carbonara",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1136.42
+    },
+    {
+        "recipeTitle": "Asparagus and Cashew Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 329.78
+    },
+    {
+        "recipeTitle": "Regag Bread ",
+        "recipeMeal": "Breakfast",
+        "calories": 410.0
+    },
+    {
+        "recipeTitle": "Sweet Kale And Bean Mix",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 130
+
+    },
+    {
+        "recipeTitle": "Herb and Cheese Balls",
+        "recipeMeal": "Savoury Snack",
+        "calories": 800.117
+    },
+    {
+        "recipeTitle": "Manakeesh dough ",
+        "recipeMeal": "Breakfast",
+        "calories": 397.71315
+    },
+    {
+        "recipeTitle": "Spinach, Goat Cheese, and Chorizo Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 716.41
+    },
+    {
+        "recipeTitle": "Palak Paneer Cheela ( flourless )",
+        "recipeMeal": "Breakfast",
+        "calories": 298.5765
+    },
+    {
+        "recipeTitle": "Vegan dark chocolate ",
+        "recipeMeal": "Sweets",
+        "calories": 761.16758
+    },
+    {
+        "recipeTitle": "Chick Peas Fatte ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 496.8605037692307
+    },
+    {
+        "recipeTitle": "Vegan Banana and Date Muffins ",
+        "recipeMeal": "Breakfast",
+        "calories": 369.77233333333334
+    },
+    {
+        "recipeTitle": "Avocado, Coconut and Lime Popsicles",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 248.68
+    },
+    {
+        "recipeTitle": "Banana Nut Bread",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 122.41
+    },
+    {
+        "recipeTitle": "Grilled Eggplant Stacks with Tomato and Feta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 380.12
+    },
+    {
+        "recipeTitle": "Chicken Biryani ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 796.2339995000001
+    },
+    {
+        "recipeTitle": "Protein pancake ",
+        "recipeMeal": "Breakfast",
+        "calories": 216.11333333333334
+    },
+    {
+        "recipeTitle": "Sesame jenjer ",
+        "recipeMeal": "Savoury Snack",
+        "calories": 525.112625
+    },
+    {
+        "recipeTitle": "Decadent Chocolate Protein Popsicles",
+        "recipeMeal": "Sweets",
+        "calories": 1942.6862999999998
+    },
+    {
+        "recipeTitle": "Oat Manaqeesh",
+        "recipeMeal": "Breakfast",
+        "calories": 220.46845
+    },
+    {
+        "recipeTitle": " Oats Roti or bread ",
+        "recipeMeal": "Breakfast",
+        "calories": 108.83733333333335
+    },
+    {
+        "recipeTitle": "Fereni Starch Pudding",
+        "recipeMeal": "Sweets",
+        "calories": 309.3936806666666
+    },
+    {
+        "recipeTitle": "Hamusta Soup",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 215.79625
+    },
+    {
+        "recipeTitle": "Chana Masala",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 349.76
+    },
+    {
+        "recipeTitle": "Diet Cheese Cake ",
+        "recipeMeal": "Breakfast",
+        "calories": 323.25314285714285
+    },
+    {
+        "recipeTitle": "Avocado Chickpea Salad Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 340.07
+    },
+    {
+        "recipeTitle": "Coconut cake",
+        "recipeMeal": "Breakfast",
+        "calories": 405.9139375
+    },
+    {
+        "recipeTitle": "Brown butter banana bread with salted caramel ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1195.2060000000001
+    },
+    {
+        "recipeTitle": "Healthy Basnosa",
+        "recipeMeal": "Breakfast",
+        "calories": 128.20140000000004
+    },
+    {
+        "recipeTitle": " vegan Healthy Nutella ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 173.23015384615383
+    },
+    {
+        "recipeTitle": "Moroccan lamb tagine",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 493.4435
+    },
+    {
+        "recipeTitle": "Turkey Swiss Melt",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 540.62
+    },
+    {
+        "recipeTitle": "Blueberry and Maple Cottage Cheese Whip",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 184.96
+    },
+    {
+        "recipeTitle": " Low calories Creamy Chicken ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 652.2850000000001
+    },
+    {
+        "recipeTitle": "coconut mug cake ",
+        "recipeMeal": "Breakfast",
+        "calories": 397.913675
+    },
+    {
+        "recipeTitle": "Oregano Grilled Chicken",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 387.64862700000003
+    },
+    {
+        "recipeTitle": "Green Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 199.3815
+    },
+    {
+        "recipeTitle": "Tuna salad Tortillas wrap. \u0627",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 138.586836
+    },
+    {
+        "recipeTitle": "Home-made salted caramel ",
+        "recipeMeal": "Breakfast",
+        "calories": 732.3
+    },
+    {
+        "recipeTitle": "Ham and Cottage Cheese Lettuce Wrap",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 113.45
+    },
+    {
+        "recipeTitle": "Saffron Salmon almon Kabab",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 256.35859999999997
+    },
+    {
+        "recipeTitle": "Cottage Cheese with Fruit and Granola",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 570.92
+    },
+    {
+        "recipeTitle": "Arugula and Fontina Frittata",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 285.35
+    },
+    {
+        "recipeTitle": "Saffron Chicken Kebab",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 363.31280000000004
+    },
+    {
+        "recipeTitle": "Olivier Salad (Russian Potato Salad)",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 505.8853999999999
+    },
+    {
+        "recipeTitle": "Oats Pancake ",
+        "recipeMeal": "Breakfast",
+        "calories": 2.7466666666666666
+    },
+    {
+        "recipeTitle": " PeaPeanut Salad ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 285.071037037037
+    },
+    {
+        "recipeTitle": "Cabbage Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 384.4724564102564
+    },
+    {
+        "recipeTitle": "Black Bean Quinoa Burrito",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 413.44
+    },
+    {
+        "recipeTitle": "Chocolate Caramel Graham Crackers",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 427.8
+    },
+    {
+        "recipeTitle": "Eggplant Borani",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 547.554
+    },
+    {
+        "recipeTitle": "Chinese Eggplants with Garlic Sauce",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 379.45
+    },
+    {
+        "recipeTitle": "Egg and Greens Skillet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 400.27
+    },
+    {
+        "recipeTitle": "Peach Crumble",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 759.3543
+    },
+    {
+        "recipeTitle": "Easy to Make Strawberry Lemonade",
+        "recipeMeal": "Breakfast",
+        "calories": 271.98
+    },
+    {
+        "recipeTitle": "Lemon Butter Sauce",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 616.191
+    },
+    {
+        "recipeTitle": "1500 Calorie Gainer",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1412.7
+    },
+    {
+        "recipeTitle": "Protein-Packed Pancakes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 208.02429999999998
+    },
+    {
+        "recipeTitle": "Pasta Vongole (Spaghetti with Clams)",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 916.295
+    },
+    {
+        "recipeTitle": "Creamy Egg Sandwich ",
+        "recipeMeal": "Breakfast",
+        "calories": 363.817
+    },
+    {
+        "recipeTitle": "Bacon and Spinach Egg",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 382.913
+    },
+    {
+        "recipeTitle": "Tavuk Doner ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 370.847375
+    },
+    {
+        "recipeTitle": "Strawberry and Balsamic Vinegar Sundae",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 318.852
+    },
+    {
+        "recipeTitle": "Delicious Loobia Polo Recipe: Persian Green Bean Rice",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 762.9469
+    },
+    {
+        "recipeTitle": "Chicken, Bacon, Spinach, and Strawberry Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 994.64
+    },
+    {
+        "recipeTitle": "Scrambled Eggs with pesto ",
+        "recipeMeal": "Breakfast",
+        "calories": 324.8829999999999
+    },
+    {
+        "recipeTitle": "Spicy Tahini Sauce",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 79.615
+    },
+    {
+        "recipeTitle": "Tofu Cream Cheese with Quick Roasted Tomatoe",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 483.0520000000001
+    },
+    {
+        "recipeTitle": "Cold Peanut Noodle Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 871.61
+    },
+    {
+        "recipeTitle": "Green Salad ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 149.69500000000002
+    },
+    {
+        "recipeTitle": "Afghani rice with lamb ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 2130.70425
+    },
+    {
+        "recipeTitle": "Chicken avocado salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 298.4166666666667
+    },
+    {
+        "recipeTitle": "Cheesy Garlic Naan",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 817.4000000000001
+    },
+    {
+        "recipeTitle": "Apple Cinnamon Oats",
+        "recipeMeal": "Breakfast",
+        "calories": 123.27550000000001
+    },
+    {
+        "recipeTitle": "Delicious Butter Lemon Chicken",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 701.7592068965516
+    },
+    {
+        "recipeTitle": "Quinoa Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 70.25666666666666
+    },
+    {
+        "recipeTitle": "High Protein Chicken Shawarm",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 736.5641310344828
+    },
+    {
+        "recipeTitle": "Low Calorie Monte Cristo Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 392.53
+    },
+    {
+        "recipeTitle": "Pumpkin Spice Breakfast Muffins",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 109.88
+    },
+    {
+        "recipeTitle": " Chickpea Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 107.84393333333331
+    },
+    {
+        "recipeTitle": "Paleo Persian Eggplant Stew Over Cauliflower Rice",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 387.54
+    },
+    {
+        "recipeTitle": "Poached Egg and Ham Toast",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 268.03
+    },
+    {
+        "recipeTitle": "Low Carb High Protein Ice Cream ",
+        "recipeMeal": "Sweets",
+        "calories": 519.1399999999999
+    },
+    {
+        "recipeTitle": "chocolate balls ",
+        "recipeMeal": "Sweets",
+        "calories": 482.64771666666667
+    },
+    {
+        "recipeTitle": "Snickers Yogurt",
+        "recipeMeal": "Breakfast",
+        "calories": 577.61
+    },
+    {
+        "recipeTitle": "Baklava Brioche",
+        "recipeMeal": "Sweets",
+        "calories": 1348.1666
+    },
+    {
+        "recipeTitle": "Arugula and Avocado Salad With Shaved Parmesan",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 369.5
+    },
+    {
+        "recipeTitle": "Oreo Protein French Toast",
+        "recipeMeal": "Breakfast",
+        "calories": 749.73
+    },
+    {
+        "recipeTitle": "Healthy Beetroot, Feta, and Orange Salad ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1039.3691999999999
+    },
+    {
+        "recipeTitle": "Havij Polo (Persian Carrot Rice)",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 868.4603000000001
+    },
+    {
+        "recipeTitle": "Banana Smoothie with whey Portion ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 583.6
+    },
+    {
+        "recipeTitle": "Chicken Escalope salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1341.4640000000002
+    },
+    {
+        "recipeTitle": "Baba Ganoush",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 183.56975
+    },
+    {
+        "recipeTitle": "Protein French Toast Muffins",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 986.41
+    },
+    {
+        "recipeTitle": "Sugarless Flourless Chocolate Cake",
+        "recipeMeal": "Breakfast",
+        "calories": 351.63599999999997
+    },
+    {
+        "recipeTitle": "chicken nuggets",
+        "recipeMeal": "Breakfast",
+        "calories": 330.21999999999997
+    },
+    {
+        "recipeTitle": "Mango Frozen Yogurt Cups",
+        "recipeMeal": "Sweets",
+        "calories": 852.97
+    },
+    {
+        "recipeTitle": "Delicious Homemade Moussaka ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 412.86421666666666
+    },
+    {
+        "recipeTitle": "High Protein Veg Kebabs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 448.57735555555547
+    },
+    {
+        "recipeTitle": "Tuna Salad ",
+        "recipeMeal": "Breakfast",
+        "calories": 220.93549999999996
+    },
+    {
+        "recipeTitle": "parmesan baked cauliflower ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 296.944709
+    },
+    {
+        "recipeTitle": "Chocolate Banana Cream Tart",
+        "recipeMeal": "Sweets",
+        "calories": 461.8999999999999
+    },
+    {
+        "recipeTitle": "Big Mac Loaded Fries",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 760.3069999999999
+    },
+    {
+        "recipeTitle": "Date Bars ",
+        "recipeMeal": "Sweets",
+        "calories": 568.1106666666666
+    },
+    {
+        "recipeTitle": "Refreshing and Simple Sekanjabin Syrup: A Sweet-Tangy Delight!",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1569.685
+    },
+    {
+        "recipeTitle": "Beetroot Dip",
+        "recipeMeal": "Breakfast",
+        "calories": 976.2804999999998
+    },
+    {
+        "recipeTitle": "Gourmet Greek Protein Bowl: A Delicious and Nutrient-Packed Lunch",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 614.4759999999999
+    },
+    {
+        "recipeTitle": "Chicken Burghul ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 982.6895921666666
+    },
+    {
+        "recipeTitle": "High Protien Shakshuka",
+        "recipeMeal": "Breakfast",
+        "calories": 238.41627777777774
+    },
+    {
+        "recipeTitle": "Healthy quick Pan Pizza ",
+        "recipeMeal": "Breakfast",
+        "calories": 311.35500000000013
+    },
+    {
+        "recipeTitle": "Chicken corn noodle soup ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 111.54230425
+    },
+    {
+        "recipeTitle": "lamb kabsa ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 401.346237
+    },
+    {
+        "recipeTitle": "Low Carbs Brownies ",
+        "recipeMeal": "Breakfast",
+        "calories": 216.9331475
+    },
+    {
+        "recipeTitle": "Simple Homemade Carrot Top and Pistachio Pesto",
+        "recipeMeal": "Savoury Snack",
+        "calories": 749.9186
+    },
+    {
+        "recipeTitle": "Apple, Almond, and Coconut Overnight Oats",
+        "recipeMeal": "Breakfast",
+        "calories": 480.2986000000001
+    },
+    {
+        "recipeTitle": "Chocolate oats ",
+        "recipeMeal": "Breakfast",
+        "calories": 114.74333333333334
+    },
+    {
+        "recipeTitle": "Delicious Hemp Flax Crackers: A Healthy Crunchy Snack",
+        "recipeMeal": "Breakfast",
+        "calories": 2017.783
+    },
+    {
+        "recipeTitle": " Vegan Couscous",
+        "recipeMeal": "Breakfast",
+        "calories": 158.16
+    },
+    {
+        "recipeTitle": "High Protein Ranch Dip",
+        "recipeMeal": "Breakfast",
+        "calories": 275.495
+    },
+    {
+        "recipeTitle": "Quick and Easy Sayadieh Rice",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 527.53675
+    },
+    {
+        "recipeTitle": "Broccoli Bread ",
+        "recipeMeal": "Breakfast",
+        "calories": 193.575
+    },
+    {
+        "recipeTitle": "Apple Cinnamon Oats",
+        "recipeMeal": "Breakfast",
+        "calories": 578.771
+    },
+    {
+        "recipeTitle": "Peanut Butter Chocolate Chip Overnight Oats",
+        "recipeMeal": "Breakfast",
+        "calories": 482.09639999999996
+    },
+    {
+        "recipeTitle": "Authentic Szechuan Chicken Recipe: The Best Spicy Chicken Dish",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 772.9715
+    },
+    {
+        "recipeTitle": "Green goddess salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 737.17
+    },
+    {
+        "recipeTitle": "Bananas Baked",
+        "recipeMeal": "Breakfast",
+        "calories": 1191.8300000000002
+    },
+    {
+        "recipeTitle": "Chocolate Rice Cake",
+        "recipeMeal": "Breakfast",
+        "calories": 288.8633333333333
+    },
+    {
+        "recipeTitle": "Tuna kofta balls",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 219.9925
+    },
+    {
+        "recipeTitle": "Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 713.33
+    },
+    {
+        "recipeTitle": "High Protein Yogurt",
+        "recipeMeal": "Breakfast",
+        "calories": 518.66
+    },
+    {
+        "recipeTitle": "Chia pudding ",
+        "recipeMeal": "Breakfast",
+        "calories": 93.00529999999999
+    },
+    {
+        "recipeTitle": "Oats banana cake",
+        "recipeMeal": "Breakfast",
+        "calories": 598.045
+    },
+    {
+        "recipeTitle": "Potato Pancakes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1027.2182666666665
+    },
+    {
+        "recipeTitle": "Korean pancake ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 148.59896666666666
+    },
+    {
+        "recipeTitle": "Creamy Chicken Bacon Ranch Pasta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1545.848
+    },
+    {
+        "recipeTitle": "Lemon chicken ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 315.53074999999995
+    },
+    {
+        "recipeTitle": "Nutritious Egg Custard",
+        "recipeMeal": "Sweets",
+        "calories": 1711.5860000000002
+    },
+    {
+        "recipeTitle": "Spicy Sausage and Egg Breakfast Skillet",
+        "recipeMeal": "Breakfast",
+        "calories": 652.0975
+    },
+    {
+        "recipeTitle": "Chocolate Snack",
+        "recipeMeal": "Breakfast",
+        "calories": 1991.055
+    },
+    {
+        "recipeTitle": "Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 310.03599999999994
+    },
+    {
+        "recipeTitle": "Grilled chicken Turkish style",
+        "recipeMeal": "Breakfast",
+        "calories": 759.8221249999999
+    },
+    {
+        "recipeTitle": "High protien overnight oat ",
+        "recipeMeal": "Breakfast",
+        "calories": 286.02000000000004
+    },
+    {
+        "recipeTitle": "Onion bhaji",
+        "recipeMeal": "Breakfast",
+        "calories": 304.4385
+    },
+    {
+        "recipeTitle": "Fried vegetables ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 277.59
+    },
+    {
+        "recipeTitle": "Chocolate balls ",
+        "recipeMeal": "Sweets",
+        "calories": 803.81575
+    },
+    {
+        "recipeTitle": "Pita pizza",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 281.06
+    },
+    {
+        "recipeTitle": "Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 130.31574999999998
+    },
+    {
+        "recipeTitle": "Air fryed Chicken Wings",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 137.47866666666667
+    },
+    {
+        "recipeTitle": "Banana oats ",
+        "recipeMeal": "Breakfast",
+        "calories": 4228.688666666668
+    },
+    {
+        "recipeTitle": "Chocolate",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 2794.961
+    },
+    {
+        "recipeTitle": "Salmon with Capers and Caprese Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 825.0
+    },
+    {
+        "recipeTitle": "French Omelete",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 138.464
+    },
+    {
+        "recipeTitle": "Garlic Parmesan Fries",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 430.2759
+    },
+    {
+        "recipeTitle": "Chocolate ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1222.0280000000002
+    },
+    {
+        "recipeTitle": "Bread Pudding",
+        "recipeMeal": "Breakfast",
+        "calories": 331.88
+    },
+    {
+        "recipeTitle": "Salt and Pepper Shrimp",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 835.0367
+    },
+    {
+        "recipeTitle": "Easy Indian Butter Chicken",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 909.82
+    },
+    {
+        "recipeTitle": "Nutrient-Packed Edamame Hummus",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 549.6120000000001
+    },
+    {
+        "recipeTitle": "Healthy Homemade Guacamole",
+        "recipeMeal": "Breakfast",
+        "calories": 1184.4989999999998
+    },
+    {
+        "recipeTitle": "Cabbage shakshoka",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 154.87710000000004
+    },
+    {
+        "recipeTitle": "Creamy Homemade Hummus ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 565.116
+    },
+    {
+        "recipeTitle": "Lentil Broccoli Bites with Cream Sauce",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 388.66
+    },
+    {
+        "recipeTitle": "Eggplant salad ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 349.1906666666666
+    },
+    {
+        "recipeTitle": "Herbal rice ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 628.8059999999999
+    },
+    {
+        "recipeTitle": "Big Mac Loaded Fries",
+        "recipeMeal": "Savoury Snack",
+        "calories": 911.9064000000003
+    },
+    {
+        "recipeTitle": "Grilled chicken ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 198.82366666666667
+    },
+    {
+        "recipeTitle": "Healthy Sweet Potato Egg Breakfast",
+        "recipeMeal": "Breakfast",
+        "calories": 761.66
+    },
+    {
+        "recipeTitle": "Blueberry Cake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 2516.576
+    },
+    {
+        "recipeTitle": "Buffalo Chicken Meatballs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 218.78
+    },
+    {
+        "recipeTitle": "Airfry wedges",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 338.1176
+    },
+    {
+        "recipeTitle": "Fudgy High Protein Brownies ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 828.222
+    },
+    {
+        "recipeTitle": "Avocado and Chicken Quesadilla",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1024.37
+    },
+    {
+        "recipeTitle": "Brownies ",
+        "recipeMeal": "Sweets",
+        "calories": 301.46
+    },
+    {
+        "recipeTitle": "Loaded Tuna Crackers ",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 380.58520000000004
+    },
+    {
+        "recipeTitle": "avocado spread ",
+        "recipeMeal": "Breakfast",
+        "calories": 254.82175
+    },
+    {
+        "recipeTitle": "Crispy Air-Fried Waffle Fries",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 173.48000000000002
+    },
+    {
+        "recipeTitle": "Banana bread",
+        "recipeMeal": "Breakfast",
+        "calories": 1051.3393333333333
+    },
+    {
+        "recipeTitle": "protein pancakes ",
+        "recipeMeal": "Breakfast",
+        "calories": 210.74400000000003
+    },
+    {
+        "recipeTitle": "Savory Green Onion Bread",
+        "recipeMeal": "Breakfast",
+        "calories": 932.981
+    },
+    {
+        "recipeTitle": "Blueberry crumble Cake ",
+        "recipeMeal": "Breakfast",
+        "calories": 551.607
+    },
+    {
+        "recipeTitle": "Coconut, Greens, Fruit, and Mixed Nut Milk",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 829.1
+    },
+    {
+        "recipeTitle": "Quinoa Risotto with Mushrooms",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 212.42
+    },
+    {
+        "recipeTitle": "Quinoa and Berries",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 489.96
+    },
+    {
+        "recipeTitle": "Lemon and Avocado Kale Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 207.24
+    },
+    {
+        "recipeTitle": "Roasted Cod on Large Garlic Croutons",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 517.74
+    },
+    {
+        "recipeTitle": "7 minutes Quick Broiled Salmon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 348.43
+    },
+    {
+        "recipeTitle": "Vegan Ground Meat",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 270.28
+    },
+    {
+        "recipeTitle": "Baked Salmon with Ritz Cracker Topping",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 391.43
+    },
+    {
+        "recipeTitle": "Carrot Ginger Creme",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 226.74
+    },
+    {
+        "recipeTitle": "Macaroni and Cheese",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 802.99
+    },
+    {
+        "recipeTitle": "Bean, Egg, and Kale Soup",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 448.69
+    },
+    {
+        "recipeTitle": "Cinnamon Caramel Corn Chex Mix",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 165.98
+    },
+    {
+        "recipeTitle": "Cauliflower Mac and Cheese",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 314.58
+    },
+    {
+        "recipeTitle": "Chorizo Potato Quinoa Scramble",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 798.63
+    },
+    {
+        "recipeTitle": "Sweet and Sour Meatballs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 492.84
+    },
+    {
+        "recipeTitle": "Simple Ham and Lettuce Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 455.54
+    },
+    {
+        "recipeTitle": "Coffee and Banana Protein Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 532.09
+    },
+    {
+        "recipeTitle": "Avocado-Goat Cheese Salad with Lime Dressing",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 292.43
+    },
+    {
+        "recipeTitle": "Spinach, Lemon, and Shrimp Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 114.52
+    },
+    {
+        "recipeTitle": "Buttermilk Cole Slaw",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 142.8
+    },
+    {
+        "recipeTitle": "Yogurt Lime Carrot Noodles",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 339.81
+    },
+    {
+        "recipeTitle": "Charcuterie and Cheese Plate",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 339.15
+    },
+    {
+        "recipeTitle": "Celery Root and Potato Puree with Chervil ( Cleri Rave en Puree )",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 404.18
+    },
+    {
+        "recipeTitle": "Cucumber Apple Berry Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 210.56
+    },
+    {
+        "recipeTitle": "Ahi Shoyu Poke",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 396.44
+    },
+    {
+        "recipeTitle": "Fast White-Bean Stew",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 637.51
+    },
+    {
+        "recipeTitle": "Maple Glazed Salmon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 308.92
+    },
+    {
+        "recipeTitle": "Baked Banana Nut Donuts",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 170.97
+    },
+    {
+        "recipeTitle": "Lemon Pasta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 416.35
+    },
+    {
+        "recipeTitle": "Chickpea Snack Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 276.38
+    },
+    {
+        "recipeTitle": "Cinnamon-Raisin Peanut Butter Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 395.12
+    },
+    {
+        "recipeTitle": "Baked Korean Sweet Potatoes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 187.98
+    },
+    {
+        "recipeTitle": "Everything Bagel with Cream Cheese and Cucumber",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 351.85
+    },
+    {
+        "recipeTitle": "Arctic Char with Pistachio Orange Vinaigrette",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 382.02
+    },
+    {
+        "recipeTitle": "Fillet of Sole with Leek Sauce",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 439.37
+    },
+    {
+        "recipeTitle": "Soft Scrambled Eggs with Goat Cheese and Asparagus",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 297.8
+    },
+    {
+        "recipeTitle": "Fresh Tomato and Herbed Ricotta Bruschetta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 166.71
+    },
+    {
+        "recipeTitle": "Maple Glazed Tilapia",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 121.83
+    },
+    {
+        "recipeTitle": "Fennel Soup",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 208.32
+    },
+    {
+        "recipeTitle": "Grilled Salmon with Dill Butter",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 410.59
+    },
+    {
+        "recipeTitle": "Strawberry protein shake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 425.67
+    },
+    {
+        "recipeTitle": "Protein Packed Tuna Melt",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 455.54
+    },
+    {
+        "recipeTitle": "Creamy Mango Sorbet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 230.43
+    },
+    {
+        "recipeTitle": "Quick and Simple Kale and Bacon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 378.41
+    },
+    {
+        "recipeTitle": "Berry Crepes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 367.23
+    },
+    {
+        "recipeTitle": "Balsamic Red Wine Glazed Filet Mignon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 222.18
+    },
+    {
+        "recipeTitle": "Simple Ham Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 355.25
+    },
+    {
+        "recipeTitle": "Cauliflower and Feta Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 505.81
+    },
+    {
+        "recipeTitle": "Mashed Cheesy Cauliflower",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 143.58
+    },
+    {
+        "recipeTitle": "Cheesy Garlic Zucchini Rice",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 243.47
+    },
+    {
+        "recipeTitle": "Scrambled Eggs with Smoked Salmon and Lemon Cream",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 274.01
+    },
+    {
+        "recipeTitle": "Cranberry Sugar Cookies",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 158.71
+    },
+    {
+        "recipeTitle": "Cucumber Avocado Soup Soupe Glac\u00e9e \u00e0 Lavocat",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 114.72
+    },
+    {
+        "recipeTitle": "Bean Bowls with Poached Eggs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 499.68
+    },
+    {
+        "recipeTitle": "Fried Catfish Recipe",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 928.92
+    },
+    {
+        "recipeTitle": "Mixed Greens with Sliced Cucumber and Avocado",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 159.78
+    },
+    {
+        "recipeTitle": "Ham and Cheddar Quesadilla",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 921.45
+    },
+    {
+        "recipeTitle": "Peppermint Patties",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 26.89
+    },
+    {
+        "recipeTitle": "Tossed Salad with Artichoke Hearts and Chickpeas",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 387.84
+    },
+    {
+        "recipeTitle": "Zucchini-Wrapped Fish Fillets",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 680.54
+    },
+    {
+        "recipeTitle": "Chickpea Salad with Lemon, Parmesan, and Fresh Herbs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 510.91
+    },
+    {
+        "recipeTitle": "Basic egg white omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 227.97
+    },
+    {
+        "recipeTitle": "Asian Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 183.61
+    },
+    {
+        "recipeTitle": "Peanut Butter Protein Balls",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 192.9
+    },
+    {
+        "recipeTitle": "Healthy Blueberry Pudding",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 425.58
+    },
+    {
+        "recipeTitle": "Cherry Tomato and Lemon Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 64.0
+    },
+    {
+        "recipeTitle": "Cream Cheese, Lox, and Capers English Muffin",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 270.06
+    },
+    {
+        "recipeTitle": "Baked Pistachio Crusted Tilapia",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 336.7
+    },
+    {
+        "recipeTitle": "Baked Honey BBQ Popcorn Chicken",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 721.46
+    },
+    {
+        "recipeTitle": "Jam and Almond Protein Shake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 766.96
+    },
+    {
+        "recipeTitle": "Beef Chili with Beans",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 405.61
+    },
+    {
+        "recipeTitle": "Creamy Salmon Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 354.16
+    },
+    {
+        "recipeTitle": "Cabbage Hash Browns",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 159.06
+    },
+    {
+        "recipeTitle": "French Style Cod with Black Olives",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 581.61
+    },
+    {
+        "recipeTitle": "Raspberry Scones",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 302.41
+    },
+    {
+        "recipeTitle": "Tuna Casserole",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 383.31
+    },
+    {
+        "recipeTitle": "Scrambled Eggs with Chorizo and Tortillas",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 783.87
+    },
+    {
+        "recipeTitle": "Dijon Salmon Fillets",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 543.13
+    },
+    {
+        "recipeTitle": "Chicken and Cabbage Stir Fry",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 388.93
+    },
+    {
+        "recipeTitle": "Spicy Coconut Chicken Curry",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 987.83
+    },
+    {
+        "recipeTitle": "Eggplant and Tofu Stir- Fry",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 474.62
+    },
+    {
+        "recipeTitle": "Mustard-Crusted Tofu with Kale and Sweet Potato",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 360.55
+    },
+    {
+        "recipeTitle": "Spinach Salad with Grilled Eggplant and Feta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 223.11
+    },
+    {
+        "recipeTitle": "Grilled Salmon with Ginger",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 176.69
+    },
+    {
+        "recipeTitle": "Chai Chia Pudding (No Sugar)",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 358.43
+    },
+    {
+        "recipeTitle": "Sweet Corn Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 119.08
+    },
+    {
+        "recipeTitle": "Kale and Apple Juice",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 148.8
+    },
+    {
+        "recipeTitle": "Steamed Green Beans",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 60.6
+    },
+    {
+        "recipeTitle": "Cauliflower Sour Cream Mash",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 86.08
+    },
+    {
+        "recipeTitle": "Australian Vegemite Pasta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 584.49
+    },
+    {
+        "recipeTitle": "Kiwi Stacks",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 280.8
+    },
+    {
+        "recipeTitle": "Braised Lentils Spinach",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 215.65
+    },
+    {
+        "recipeTitle": "Asian Chicken and Water Chestnut Patties",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 144.64
+    },
+    {
+        "recipeTitle": "Green Vegan Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 349.22
+    },
+    {
+        "recipeTitle": "Sweet and Sour Chicken",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 598.61
+    },
+    {
+        "recipeTitle": "Lemon Spaghetti with Spinach",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 771.75
+    },
+    {
+        "recipeTitle": "Charred Chickpea and Corn Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 297.21
+    },
+    {
+        "recipeTitle": "German Pancakes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 227.65
+    },
+    {
+        "recipeTitle": "Chicken Saute with Wilted Endive and Brussels Sprouts",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 460.44
+    },
+    {
+        "recipeTitle": "Cream Cheese and Ham Pickles",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 171.47
+    },
+    {
+        "recipeTitle": "Currant-Avocado Salad with Almond Balsamic Vinaigrette",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 356.38
+    },
+    {
+        "recipeTitle": "Sardine Bruschetta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 386.08
+    },
+    {
+        "recipeTitle": "Chili Tofu Salad with Kimchi Chips and Seaweed",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 160.05
+    },
+    {
+        "recipeTitle": "Noodle Salad with Mango and Gingered Cucumber",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 159.0
+    },
+    {
+        "recipeTitle": "Garlic and Cream Cheese Cauliflower Mashed Potatoes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 140.08
+    },
+    {
+        "recipeTitle": "Almond Butter Paleo Blueberry Waffles",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 464.47
+    },
+    {
+        "recipeTitle": "Creamy Deviled Eggs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 108.56
+    },
+    {
+        "recipeTitle": "Slow Cooker White Chicken Chilli",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 406.3
+    },
+    {
+        "recipeTitle": "Saut\u00e9ed Broccoli and Asparagus with Eggs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 752.77
+    },
+    {
+        "recipeTitle": "Curried Cauliflower Fritter",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 162.98
+    },
+    {
+        "recipeTitle": "Marinated Vegetable Medley",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 49.34
+    },
+    {
+        "recipeTitle": "Feta-Stuffed Hamburgers",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 343.47
+    },
+    {
+        "recipeTitle": "Kale Anchovy Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 268.54
+    },
+    {
+        "recipeTitle": "Yogurt with Cucumber & Lox",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 240.97
+    },
+    {
+        "recipeTitle": "Bacon Wrapped Turkey Breast Stuffed with Spinach and Feta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 237.76
+    },
+    {
+        "recipeTitle": "Veggie-Tuna-Mac",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 200.65
+    },
+    {
+        "recipeTitle": "Green Eggs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 222.25
+    },
+    {
+        "recipeTitle": "Poached Salmon with Bacon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 635.84
+    },
+    {
+        "recipeTitle": "Dry-Rubbed Flank Steak with Grilled Corn Salsa",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 443.16
+    },
+    {
+        "recipeTitle": "Tuna salad sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 475.51
+    },
+    {
+        "recipeTitle": "Curry Scramble",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 99.12
+    },
+    {
+        "recipeTitle": "Grilled Shrimp Satay with Peaches and Bok Choy",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 466.86
+    },
+    {
+        "recipeTitle": "Asian Lettuce Wraps",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 446.68
+    },
+    {
+        "recipeTitle": "Pecan Crusted Tilapia",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 292.7
+    },
+    {
+        "recipeTitle": "5 Spice Pork Lettuce Cups",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 436.51
+    },
+    {
+        "recipeTitle": "Soft Mahi Mahi Tacos with Ginger-Lime Dressing",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 356.92
+    },
+    {
+        "recipeTitle": "Bacon Beef Rolls",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 458.29
+    },
+    {
+        "recipeTitle": "Cabbage Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 390.3
+    },
+    {
+        "recipeTitle": "Vegan Dill Stew with Rosemary Dumplings",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 374.3
+    },
+    {
+        "recipeTitle": "Roasted Feta with Olives and Red Peppers",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 350.54
+    },
+    {
+        "recipeTitle": "Tuna, Artichoke, and Red Pepper Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 167.97
+    },
+    {
+        "recipeTitle": "Cheesy Quinoa and Broccoli Patties",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 127.33
+    },
+    {
+        "recipeTitle": "Sausage and Sweet Potato Casserole",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 381.77
+    },
+    {
+        "recipeTitle": "Rib Eye Steak",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 380.22
+    },
+    {
+        "recipeTitle": "Steamed Mussels in White Wine",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 545.85
+    },
+    {
+        "recipeTitle": "Red Snapper with Basil Vinaigrette",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 400.62
+    },
+    {
+        "recipeTitle": "Cucumber Cooler",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 65.89
+    },
+    {
+        "recipeTitle": "Honey Garlic Salmon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 256.99
+    },
+    {
+        "recipeTitle": "Grilled Asparagus and Poached Egg on Toast",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 427.45
+    },
+    {
+        "recipeTitle": "Roasted Broccoli Quinoa Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 350.89
+    },
+    {
+        "recipeTitle": "Keto Parmesan Breaded Porkchops",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 243.26
+    },
+    {
+        "recipeTitle": "Filipino Adobo Chicken",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 341.24
+    },
+    {
+        "recipeTitle": "Celery-Root Puree",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 139.16
+    },
+    {
+        "recipeTitle": "Rice and Beans",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 484.95
+    },
+    {
+        "recipeTitle": "Sweet Chili Salmon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 345.87
+    },
+    {
+        "recipeTitle": "Nori Rolls with Salmon and Veggies",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 397.54
+    },
+    {
+        "recipeTitle": "Vegan Green Spaghetti",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 415.15
+    },
+    {
+        "recipeTitle": "Strawberry, Spinach, and Ginger Thick Green Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 132.19
+    },
+    {
+        "recipeTitle": "Egg and Cottage Cheese Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 324.54
+    },
+    {
+        "recipeTitle": "Rice Cake with Salmon & Dill Spread",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 279.39
+    },
+    {
+        "recipeTitle": "Cauliflower Cheddar Fritters",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 72.25
+    },
+    {
+        "recipeTitle": "Barbecue tuna sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 359.98
+    },
+    {
+        "recipeTitle": "Chocolate Black Bean Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 456.04
+    },
+    {
+        "recipeTitle": "Veggie Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 148.66
+    },
+    {
+        "recipeTitle": "Blackberry Chocolate Shake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 214.39
+    },
+    {
+        "recipeTitle": "Delicata Squash and Roasted Mushrooms",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 220.09
+    },
+    {
+        "recipeTitle": "Watermelonade",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 267.88
+    },
+    {
+        "recipeTitle": "Firecracker Burgers",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 398.42
+    },
+    {
+        "recipeTitle": "Apple, Melon, and Greens Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 297.54
+    },
+    {
+        "recipeTitle": "5-Layer Keto Mexican Bowls",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 558.17
+    },
+    {
+        "recipeTitle": "Apple-Orange Almond Spread",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 276.01
+    },
+    {
+        "recipeTitle": "Broccoli with Sesame Egg Ribbons",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 397.07
+    },
+    {
+        "recipeTitle": "Keto Grilled Cheese Sandwiches",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 402.55
+    },
+    {
+        "recipeTitle": "Chakchouka",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 183.3057045
+    },
+    {
+        "recipeTitle": "Cheesy Veggie Bake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 193.82
+    },
+    {
+        "recipeTitle": "Breakfast Sushi",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 156.01
+    },
+    {
+        "recipeTitle": "Saut\u00e9ed Cabbage",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 315.41
+    },
+    {
+        "recipeTitle": "The Vegan Snack Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 503.24
+    },
+    {
+        "recipeTitle": "Endive Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 243.98
+    },
+    {
+        "recipeTitle": "Asparagus, Peas, and Basil ( Piselli con Asparagi e Basilico )",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 122.97
+    },
+    {
+        "recipeTitle": "Tropical Coconut Oatmeal",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 589.63
+    },
+    {
+        "recipeTitle": "Easy Cucumber Lemon Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 235.88
+    },
+    {
+        "recipeTitle": "Yuca-Scallion Mofongo",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 321.63
+    },
+    {
+        "recipeTitle": "Cold pea salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 284.71
+    },
+    {
+        "recipeTitle": "Tuna Poke",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 164.49
+    },
+    {
+        "recipeTitle": "Turkey Egg White Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 166.02
+    },
+    {
+        "recipeTitle": "Bruschette with Chickpea Puree and Arugula",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 161.74
+    },
+    {
+        "recipeTitle": "Zucchini Hash",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 218.3
+    },
+    {
+        "recipeTitle": "English Muffin Spicy Tuna Melt",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 356.21
+    },
+    {
+        "recipeTitle": "Cottage Cheese Honey Toast",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 215.77
+    },
+    {
+        "recipeTitle": "Banana Ice Cream",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 178.13
+    },
+    {
+        "recipeTitle": "Spinach Enchiladas Verde",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 294.72
+    },
+    {
+        "recipeTitle": "Breakfast taco",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 140.67
+    },
+    {
+        "recipeTitle": "Mexican Salad in a Jar",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 346.36
+    },
+    {
+        "recipeTitle": "Loaded Paleo Breakfast Hash",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 134.35
+    },
+    {
+        "recipeTitle": "Cottage Cheese and Black Bean Vegetarian Quesadillas",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 294.06
+    },
+    {
+        "recipeTitle": "Spaghetti with Garlic and Basil",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 347.97
+    },
+    {
+        "recipeTitle": "Beets in Orange Sauce",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 283.44
+    },
+    {
+        "recipeTitle": "Kale Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 206.12
+    },
+    {
+        "recipeTitle": "Mexican Chocolate Pot De Cr\u00e8me",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 332.35
+    },
+    {
+        "recipeTitle": "Ratatouille",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 98.27
+    },
+    {
+        "recipeTitle": "Tomato Mozzarella Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 598.84
+    },
+    {
+        "recipeTitle": "Cucumber & Hummus",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 117.7
+    },
+    {
+        "recipeTitle": "Citrus Macademia Nut Sole",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 323.86
+    },
+    {
+        "recipeTitle": "3 Bean Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1051.33
+    },
+    {
+        "recipeTitle": "Balsamic-Glazed Steak",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1104.78
+    },
+    {
+        "recipeTitle": "Creamy Clementine Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 675.1
+    },
+    {
+        "recipeTitle": "Asparagus Bundles",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 314.77
+    },
+    {
+        "recipeTitle": "Grilled Eggplant Parmigiana Heros",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 608.74
+    },
+    {
+        "recipeTitle": "Mixed Greens with Olive Oil and Lemon Salad Dressing",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 70.33
+    },
+    {
+        "recipeTitle": "Cucumber-Topped Rye Crisps",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 254.76
+    },
+    {
+        "recipeTitle": "Sourdough Turkey Sandwish",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 410.53
+    },
+    {
+        "recipeTitle": "Baked Falafel Burgers",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 192.48
+    },
+    {
+        "recipeTitle": "Spinach Salad with Blackberries",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 310.31
+    },
+    {
+        "recipeTitle": "Black Bean and Bacon Soup",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 147.57
+    },
+    {
+        "recipeTitle": "Peaches and Greens Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 496.67
+    },
+    {
+        "recipeTitle": "Seared Sesame-Crusted Tuna",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 336.66
+    },
+    {
+        "recipeTitle": "Tuna Apple Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 481.79
+    },
+    {
+        "recipeTitle": "Quinoa Fried Rice",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 341.54
+    },
+    {
+        "recipeTitle": "Simple Vegetable Egg Bake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 462.08
+    },
+    {
+        "recipeTitle": "Cumin Lentils in Endive Leaves",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 316.59
+    },
+    {
+        "recipeTitle": "Eggs on Toast with Goat Cheese & Peas",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 343.74
+    },
+    {
+        "recipeTitle": "Cheddar and green chilli stuffed potatoes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 245.07
+    },
+    {
+        "recipeTitle": "White Bean & Veggie Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 375.16
+    },
+    {
+        "recipeTitle": "Skinny Veggie Egg Muffins",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 113.03
+    },
+    {
+        "recipeTitle": "Cinnamon Oatmeal Pancakes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 234.97
+    },
+    {
+        "recipeTitle": "Edamame and Pear Crostini",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 415.56
+    },
+    {
+        "recipeTitle": "Egg and Veggie Breakfast Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 250.26
+    },
+    {
+        "recipeTitle": "Egg Salad Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 365.78
+    },
+    {
+        "recipeTitle": "Fig, Date, and Cashew Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 347.56
+    },
+    {
+        "recipeTitle": "Coconut Milkshake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1023.78
+    },
+    {
+        "recipeTitle": "Avocado Tuna Melt Bites",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 377.16
+    },
+    {
+        "recipeTitle": "Grilled Salmon Patties with Avocado",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 295.64
+    },
+    {
+        "recipeTitle": "Lemon and Asparagus Pasta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 547.84
+    },
+    {
+        "recipeTitle": "Pressure Cooker Chicken and Mushroom Risotto",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 592.91
+    },
+    {
+        "recipeTitle": "Vegan Lentil Lettuce Wraps",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 288.38
+    },
+    {
+        "recipeTitle": "Ginger Salmon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 203.64
+    },
+    {
+        "recipeTitle": "Radicchio, Red Cabbage and Tomatoes with Orange Vinaigrette",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 142.18
+    },
+    {
+        "recipeTitle": "Belgian Waffles",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 245.38
+    },
+    {
+        "recipeTitle": "Cinnamon French Toast",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 127.01
+    },
+    {
+        "recipeTitle": "Cauliflower Fried Rice",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 194.52
+    },
+    {
+        "recipeTitle": "Sweet Chili Ham Salad Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 349.56
+    },
+    {
+        "recipeTitle": "Prosciutto-Wrapped Mini Frittata Muffins",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 212.92
+    },
+    {
+        "recipeTitle": "Kale and Black Bean Burritos",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 313.32
+    },
+    {
+        "recipeTitle": "Salmon Glazed with Honey and Mustard",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 282.71
+    },
+    {
+        "recipeTitle": "Ham and Egg Mushroom Cups",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 188.49
+    },
+    {
+        "recipeTitle": "Strawberry and Arugula Salad With Hazelnut Dressing",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 258.93
+    },
+    {
+        "recipeTitle": "Thin Green Spinach and Herb Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 246.66
+    },
+    {
+        "recipeTitle": "Turkey Chilli",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 270.19
+    },
+    {
+        "recipeTitle": "Vanilla, Banana, and Kale Protein Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 338.91
+    },
+    {
+        "recipeTitle": "Baked Sausage, Spinach, and Egg Taquitos",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 239.3
+    },
+    {
+        "recipeTitle": "Sesame seared tuna",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 276.11
+    },
+    {
+        "recipeTitle": "Bachelor Steak",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 305.26
+    },
+    {
+        "recipeTitle": "Grilled Cod",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 239.59
+    },
+    {
+        "recipeTitle": "Eggs with Hats on Top",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 243.88
+    },
+    {
+        "recipeTitle": "Bacon Wrapped Hot Dogs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 276.78
+    },
+    {
+        "recipeTitle": "Grilled cheese sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 407.52
+    },
+    {
+        "recipeTitle": "Spinach Meal Shake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 126.89
+    },
+    {
+        "recipeTitle": "3-ingredient No-flour Vegan cookies",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 49.36
+    },
+    {
+        "recipeTitle": "Cheese slices",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 115.1
+    },
+    {
+        "recipeTitle": "Roasted Chestnuts",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 144.4
+    },
+    {
+        "recipeTitle": "Avocado Rice Cake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 127.01
+    },
+    {
+        "recipeTitle": "Creamy Chocolate Protein Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 207.53
+    },
+    {
+        "recipeTitle": "Yogurt with Walnuts & Honey",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 259.77
+    },
+    {
+        "recipeTitle": "Cucumber Slices",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 15.6
+    },
+    {
+        "recipeTitle": "Feta Chicken",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 235.59
+    },
+    {
+        "recipeTitle": "Banana and Kale Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 278.12
+    },
+    {
+        "recipeTitle": "Avocado Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 463.83
+    },
+    {
+        "recipeTitle": "Chocolate Dipped Banana Bites",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 190.69
+    },
+    {
+        "recipeTitle": "Brazilian Collard Greens",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 79.27
+    },
+    {
+        "recipeTitle": "Frizzled Cabbage",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 130.19
+    },
+    {
+        "recipeTitle": "Vegan Pasta with Rose Sauce",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 380.66
+    },
+    {
+        "recipeTitle": "Wilted Spinach Salad with Warm Feta Dressing",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 313.16
+    },
+    {
+        "recipeTitle": "Cheesy Tuna Casserole",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 483.57
+    },
+    {
+        "recipeTitle": "Mushroom Supreme Vegan Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 396.46
+    },
+    {
+        "recipeTitle": "Smoked Whitefish Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 224.4
+    },
+    {
+        "recipeTitle": "Chili coke roast",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 484.06
+    },
+    {
+        "recipeTitle": "Sweet Chili Salmon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 332.75
+    },
+    {
+        "recipeTitle": "Chickpea Meat and Pasta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 508.16
+    },
+    {
+        "recipeTitle": "Spinach Alfredo Lasagna",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 506.6
+    },
+    {
+        "recipeTitle": "Vegan Chocolate Ginger Orange Cupcakes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 285.94
+    },
+    {
+        "recipeTitle": "Chorizo Burgers with Fried Eggs and Onions",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 461.73
+    },
+    {
+        "recipeTitle": "Roast Beef, Arugula and Shaved Parmesan on a Baguette",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 519.3
+    },
+    {
+        "recipeTitle": "Chicken with Yogurt-Lemon White Sauce",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 599.57
+    },
+    {
+        "recipeTitle": "Rice, Spring Onion, and Feta Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 387.75
+    },
+    {
+        "recipeTitle": "Rice noodles with Chicken and Vegetables",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 631.16
+    },
+    {
+        "recipeTitle": "Hearty Mac and Chili",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 621.6
+    },
+    {
+        "recipeTitle": "Peanut Butter Toast",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 529.38
+    },
+    {
+        "recipeTitle": "Mediterranean Supper Omelet with Fennel, Olives, and Dill",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 506.49
+    },
+    {
+        "recipeTitle": "Parsley Scallion Hummus Pasta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 795.09
+    },
+    {
+        "recipeTitle": "Acini di Pepe Pasta with Garlic and Olives",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 178.76
+    },
+    {
+        "recipeTitle": "Honey Glazed Salted Salmon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 237.81
+    },
+    {
+        "recipeTitle": "One Pot Tomato Basil Pasta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 424.39
+    },
+    {
+        "recipeTitle": "Hoisin Glazed Salmon",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 495.33
+    },
+    {
+        "recipeTitle": "Veggie Egg Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 209.11
+    },
+    {
+        "recipeTitle": "Soft Boiled Eggs & Toast",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 284.25
+    },
+    {
+        "recipeTitle": "Pan Fried Cabbage",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 109.02
+    },
+    {
+        "recipeTitle": "Roasted Garlic Green Beans",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 27.92
+    },
+    {
+        "recipeTitle": "Asparagus Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 120.13
+    },
+    {
+        "recipeTitle": "Bagel with Cream Cheese",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 315.28
+    },
+    {
+        "recipeTitle": "Bacon and Cheddar Keto Chicken",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 478.11
+    },
+    {
+        "recipeTitle": "Homemade Turkey McMuffins",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 438.25
+    },
+    {
+        "recipeTitle": "Keto Pork Schnitzel",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 370.3
+    },
+    {
+        "recipeTitle": "Red Lobster Nantucket Baked Cod",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 261.07
+    },
+    {
+        "recipeTitle": "Bacon Breakfast Tacos",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 533.87
+    },
+    {
+        "recipeTitle": "Classic Grilled Cheese and Tomato Soup",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 909.04
+    },
+    {
+        "recipeTitle": "Coconut Pineapple Orange Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 475.72
+    },
+    {
+        "recipeTitle": "Skinny Pancakes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 278.9
+    },
+    {
+        "recipeTitle": "Toast with Pear, Cottage Cheese, and Honey",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 188.54
+    },
+    {
+        "recipeTitle": "Stir Fried Bok Choy with Ginger and Garlic",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 58.73
+    },
+    {
+        "recipeTitle": "Yogurt with Apricot and Grapefruit",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 339.21
+    },
+    {
+        "recipeTitle": "Cabbage Patch Soup",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 168.94
+    },
+    {
+        "recipeTitle": "Strawberry Cheesecake Fat Bombs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 86.51
+    },
+    {
+        "recipeTitle": "Basic Eggs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 183.07
+    },
+    {
+        "recipeTitle": "Rice Cake with Strawberries, Ricotta & Honey",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 210.1
+    },
+    {
+        "recipeTitle": "BBQ Chicken Tenders",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1172.79
+    },
+    {
+        "recipeTitle": "Blueberry Shake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 724.67
+    },
+    {
+        "recipeTitle": "Cauliflower Rice",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 92.92
+    },
+    {
+        "recipeTitle": "Overnight Cucumber Detox Drink",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 37.21
+    },
+    {
+        "recipeTitle": "Couscous bake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 163.07
+    },
+    {
+        "recipeTitle": "Tabbouleh Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 126.99
+    },
+    {
+        "recipeTitle": "Green Detox Protein Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 205.28
+    },
+    {
+        "recipeTitle": "Cheesy Cucumber and Tomato Snack Stacks",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 59.3
+    },
+    {
+        "recipeTitle": "Vegan Lunch Meat Sandwich",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 435.9
+    },
+    {
+        "recipeTitle": "Chickpea Quinoa Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 289.26
+    },
+    {
+        "recipeTitle": "Healthy Make-ahead Meatballs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 165.59
+    },
+    {
+        "recipeTitle": "Mediterranean Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 74.15
+    },
+    {
+        "recipeTitle": "Chocolate Almond Iced Coffee",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 95.22
+    },
+    {
+        "recipeTitle": "Baked Chicken Nuggets",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 390.12
+    },
+    {
+        "recipeTitle": "Chicken Scramble",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 615.9
+    },
+    {
+        "recipeTitle": "Blackened Catfish",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 181.54
+    },
+    {
+        "recipeTitle": "Cucumbers with Feta, Basil, and Cilantro",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 84.13
+    },
+    {
+        "recipeTitle": "Homemade Egg Pasta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 353.74
+    },
+    {
+        "recipeTitle": "Swiss Bircher Muesli",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 309.9
+    },
+    {
+        "recipeTitle": "Steak Lettuce Wraps",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 218.53
+    },
+    {
+        "recipeTitle": "Savory Cheese Chive Waffles",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 111.27
+    },
+    {
+        "recipeTitle": "Baked Honey Mustard Chicken",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 291.89
+    },
+    {
+        "recipeTitle": "Classic Hash Browns",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 319.77
+    },
+    {
+        "recipeTitle": "Braised Beef with Vegetables",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 530.12
+    },
+    {
+        "recipeTitle": "Chocolate Covered Berry Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 317.91
+    },
+    {
+        "recipeTitle": "Green Beans With Bacon and Mushrooms",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 85.19
+    },
+    {
+        "recipeTitle": "Strawberry Cheesecake Chia Seed Pudding",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 304.87
+    },
+    {
+        "recipeTitle": "Chocolate Peanut Butter Oatmeal Protein Shake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 324.78
+    },
+    {
+        "recipeTitle": "Oatmeal Banana Peanut Butter Chocolate Shake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 669.58
+    },
+    {
+        "recipeTitle": "Clean Eating Protein Pancakes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 70.32
+    },
+    {
+        "recipeTitle": "Microwaved sweet potato",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 111.8
+    },
+    {
+        "recipeTitle": "English Muffin Breakfast Pizza",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 355.25
+    },
+    {
+        "recipeTitle": "Toast with Pureed Coconut Cottage Cheese",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 211.09
+    },
+    {
+        "recipeTitle": "Aloo Tikki",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 288.06
+    },
+    {
+        "recipeTitle": "Raw Zucchini, Cucumber, and Celery Soup",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 200.89
+    },
+    {
+        "recipeTitle": "Dried Fruit and Almond Granola",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 219.87
+    },
+    {
+        "recipeTitle": "Keto Eggroll in a Bowl",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 408.14
+    },
+    {
+        "recipeTitle": "Lemon, Pine Nut, and Quinoa Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 329.41
+    },
+    {
+        "recipeTitle": "Ham and Cottage Cheese Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 294.43
+    },
+    {
+        "recipeTitle": "Mushroom Bison Sliders",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 136.76
+    },
+    {
+        "recipeTitle": "Extreme Protein Shake",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 3908.98
+    },
+    {
+        "recipeTitle": "Baked Winter Squash",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 244.95
+    },
+    {
+        "recipeTitle": "Spring Pea Frittata",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 144.57
+    },
+    {
+        "recipeTitle": "Black Olive Spread with Crostini",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 236.95
+    },
+    {
+        "recipeTitle": "Eggs & Greens",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 214.25
+    },
+    {
+        "recipeTitle": "Chard, Lime, and Mint Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 82.57
+    },
+    {
+        "recipeTitle": "Vegan Mac and Cheeze",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 312.61
+    },
+    {
+        "recipeTitle": "Lavosh",
+        "recipeMeal": "Breakfast",
+        "calories": 152.9315176
+    },
+    {
+        "recipeTitle": "Coconut rice pudding",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 259.5
+    },
+    {
+        "recipeTitle": "Yogurt with Toasted Coconut",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 221.78
+    },
+    {
+        "recipeTitle": "Very Green Veggie Protein Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 147.2
+    },
+    {
+        "recipeTitle": "Gluten-Free Almond Flour Pizza",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1504.12
+    },
+    {
+        "recipeTitle": "Corned Beef and Cabbage",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 864.26
+    },
+    {
+        "recipeTitle": "Low Carb Hamburger Stroganoff",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 328.44
+    },
+    {
+        "recipeTitle": "Cream Cheese Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 295.04
+    },
+    {
+        "recipeTitle": "Cabbage Cucumber Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 68.07
+    },
+    {
+        "recipeTitle": "Rice Noodle Salad With Mango",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 253.16
+    },
+    {
+        "recipeTitle": "Curry Tuna Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 113.32
+    },
+    {
+        "recipeTitle": "Berry and Spinach Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 306.57
+    },
+    {
+        "recipeTitle": "Peanut Butter, Banana, and Oatmeal Pancakes",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 741.59
+    },
+    {
+        "recipeTitle": "Vegan Wonton Soup",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 245.32
+    },
+    {
+        "recipeTitle": "Broccoli Salad with Gouda",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 362.11
+    },
+    {
+        "recipeTitle": "Chinese Chicken and Broccoli",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 347.42
+    },
+    {
+        "recipeTitle": "Cheesy Spinach and Mushroom Lasagna Rolls",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 551.77
+    },
+    {
+        "recipeTitle": "Salmon-Avocado Poke Bowl",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 295.17
+    },
+    {
+        "recipeTitle": "Yogurt with Mango & Avocado",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 279.79
+    },
+    {
+        "recipeTitle": "Chicken and Bacon Pan-Fried Sandwiches",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 568.81
+    },
+    {
+        "recipeTitle": "Black Bean Lentil Salad with Cumin Lime Dressing",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 472.96
+    },
+    {
+        "recipeTitle": "Cauliflower Puree",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 226.96
+    },
+    {
+        "recipeTitle": "Philly Cheesesteak Stew",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 977.86
+    },
+    {
+        "recipeTitle": "Steamed Carrots",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 31.13
+    },
+    {
+        "recipeTitle": "Simple California Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 326.4
+    },
+    {
+        "recipeTitle": "Banana, Berries, and Bittersweet Chocolate Snack",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 466.2
+    },
+    {
+        "recipeTitle": "Lemony Fusilli with Chickpeas, Raisins, and Spinach",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 458.03
+    },
+    {
+        "recipeTitle": "Southwest Chicken",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 483.2
+    },
+    {
+        "recipeTitle": "Creamy Avocado Chicken Pasta",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 708.12
+    },
+    {
+        "recipeTitle": "Chocolate Avocado Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 562.69
+    },
+    {
+        "recipeTitle": "Easy Baked Fish",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 301.58
+    },
+    {
+        "recipeTitle": "Cottage Cheese Salad",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 81.75
+    },
+    {
+        "recipeTitle": "Cumin-Scented Herbed Rice",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 134.03
+    },
+    {
+        "recipeTitle": "Cheesy Cauliflower Puree",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 291.37
+    },
+    {
+        "recipeTitle": "Skillet-Baked Eggs",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 326.54
+    },
+    {
+        "recipeTitle": "Spinach, Swiss, and Egg White Omelet",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 125.54
+    },
+    {
+        "recipeTitle": "Garlic Tomato Chutney",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 1035.25
+    },
+    {
+        "recipeTitle": "Blueberry Blast Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 416.56
+    },
+    {
+        "recipeTitle": "Cuban Polenta with Chorizo and Corn",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 183.97
+    },
+    {
+        "recipeTitle": "Blueberry Almond Butter Protein Smoothie",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 450.71
+    },
+    {
+        "recipeTitle": "Shoestring Zucchini Fries",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 565.19
+    },
+    {
+        "recipeTitle": "Easy Grilled Peppers",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 100.82
+    },
+    {
+        "recipeTitle": "Mushroom Stroganoff",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 272.27
+    },
+    {
+        "recipeTitle": "Lemon Butter Scallops",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 157.88
+    },
+    {
+        "recipeTitle": "Banana, Almond Butter, and Dates",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 208.97
+    },
+    {
+        "recipeTitle": "Fried Plantains with Sour Cream",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 384.03
+    },
+    {
+        "recipeTitle": "Roasted Eggplant with Red Onion",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 259.8
+    },
+    {
+        "recipeTitle": "Cream Cheese Toast",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 190.95
+    },
+    {
+        "recipeTitle": "Cuban Green Soup",
+        "recipeMeal": "Lunch & Dinner ",
+        "calories": 376.27
+    }
+]
